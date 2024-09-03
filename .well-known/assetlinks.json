@@ -1,0 +1,13 @@
+[
+    {
+  "relation": ["delegate_permission/common.handle_all_urls"],  "target" : { "namespace": "android_app", "package_name": "org.chromium.authtabapp",
+               "sha256_cert_fingerprints": [
+                 "94:18:90:E9:08:F8:37:03:92:77:B1:40:D7:53:F9:0C:B3:FB:08:E0:8A:2D:D8:F2:22:5B:64:DD:67:51:52:8B"] }
+    },
+    {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "org.chromium.customtabsclient",
+               "sha256_cert_fingerprints": [
+                 "94:18:90:E9:08:F8:37:03:92:77:B1:40:D7:53:F9:0C:B3:FB:08:E0:8A:2D:D8:F2:22:5B:64:DD:67:51:52:8B"] }
+    }
+]
